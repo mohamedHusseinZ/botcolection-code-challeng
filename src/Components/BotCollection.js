@@ -1,5 +1,6 @@
 import React from 'react';
 
+
 const BotCollection = ({ bots, enlistBot }) => {
   return (
     <div>
