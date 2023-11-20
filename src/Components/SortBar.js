@@ -11,6 +11,8 @@ const SortBar = ({ sortBots }) => {
       </select>
     </div>
   );
+  
 };
+
 
 export default SortBar;
