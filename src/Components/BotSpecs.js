@@ -6,7 +6,7 @@ const BotSpecs = ({ bot, goBack, enlistBot }) => {
       <h2>Bot Specs</h2>
       <img src={bot.avatar_url} alt={bot.name} />
       <p>{bot.name}</p>
-      {zaki}
+      {/* Display other bot details here */}
       <button onClick={goBack}>Go Back</button>
       <button onClick={() => enlistBot(bot)}>Enlist</button>
     </div>
