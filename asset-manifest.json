@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mohamedHusseinZ/botcolection-code-challeng/static/css/main.972dbc40.css",
+    "main.js": "/mohamedHusseinZ/botcolection-code-challeng/static/js/main.da857cb7.js",
+    "static/js/787.87d95e10.chunk.js": "/mohamedHusseinZ/botcolection-code-challeng/static/js/787.87d95e10.chunk.js",
+    "index.html": "/mohamedHusseinZ/botcolection-code-challeng/index.html",
+    "main.972dbc40.css.map": "/mohamedHusseinZ/botcolection-code-challeng/static/css/main.972dbc40.css.map",
+    "main.da857cb7.js.map": "/mohamedHusseinZ/botcolection-code-challeng/static/js/main.da857cb7.js.map",
+    "787.87d95e10.chunk.js.map": "/mohamedHusseinZ/botcolection-code-challeng/static/js/787.87d95e10.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.972dbc40.css",
+    "static/js/main.da857cb7.js"
+  ]
+}
